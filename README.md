@@ -1,16 +1,5 @@
 # activity_tracker
 
-A new Flutter project.
+This challenge is designed to assess a participant's ability to build a user-friendly activity tracker app using Flutter. If you are a seasoned Flutter developer jump in, but also, if you are new to Flutter… give it a try!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app should be able to retrieve and display activities from the Bored API and allow users to add, edit, and delete activities.
